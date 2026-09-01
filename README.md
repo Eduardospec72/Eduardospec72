@@ -1,7 +1,7 @@
 # Olá, eu sou o Eduardo Manoel! 👋
 
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,39 +18,39 @@ Olá! Sou o **Eduardo Manoel**, estudante de **Análise e Desenvolvimento de Sis
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<p align="left">
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
-</div>
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img height="180" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://herokuapp.com" alt="Streak do GitHub" />
-</div>
+<p align="center">
+  <img height="180" src="https://herokuapp.com" alt="Streak do GitHub" />
+</p>
 
 ---
 
 ### 📫 Conecte-se Comigo
 
-<div align="left">
+<p align="left">
   <a href="https://github.com" target="_blank">
     <img src="https://shields.io" alt="GitHub" />
   </a>
-</div>
+</p>
 
 <br />
 
-<div align="center">
+<p align="center">
   <img src="https://vercel.app" alt="Footer Animado" />
-</div>
+</p>
