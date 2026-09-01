@@ -35,10 +35,6 @@ Olá! Sou o **Eduardo Manoel**, estudante de **Análise e Desenvolvimento de Sis
   <img height="180" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://herokuapp.com" alt="Streak do GitHub" />
-</p>
-
 ---
 
 ### 📫 Conecte-se Comigo
@@ -47,10 +43,4 @@ Olá! Sou o **Eduardo Manoel**, estudante de **Análise e Desenvolvimento de Sis
   <a href="https://github.com" target="_blank">
     <img src="https://shields.io" alt="GitHub" />
   </a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://vercel.app" alt="Footer Animado" />
 </p>
